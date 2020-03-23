@@ -1,0 +1,16 @@
+.DS_Store
+xcuserdata
+Pods
+Podfile.lock
+src/fastlane/report.xml
+src/fastlane/README.md
+src/build
+src/output
+src/Gemfile.lock
+src/fastlane@tmp
+src@tmp
+src/.scannerwork
+.orig
+src/sonar-reports
+src/fastlane/test_output/
+src/my_folder_*
